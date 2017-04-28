@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "jquery": ">=1.9.1 <4.0.0"
+  }
+}
